@@ -79,7 +79,7 @@ client.on("message", async(msg) => {
     }
     else if(msg.content.substring() === '.fact' || msg.content.substring(0, 5) === '.Fact')
     {
-        msg.reply('Midhun is gay! Ranjith is forever a virgin! Siddharth is the best!')
+        msg.reply('Insert Random Factoid!')
     }
     else if(msg.content.substring(0, 5) === '.meme' || msg.content.substring(0, 5) === '.Meme')
     {
